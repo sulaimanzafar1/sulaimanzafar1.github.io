@@ -18,5 +18,13 @@ SEE YOU IN ABU DHABI IN APRIL
 
 </b> </p>
 
+   <head>
+      <title>SULAIMAN WEBSITE</title>
+   </head>
+	
+   <body>
+      <p>I HELLO OMAR AND AADIL <del>HELLO</del> <ins>wine</ins></p>
+   </body>
+
 
 </html>
