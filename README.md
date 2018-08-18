@@ -10,7 +10,8 @@
    </head>
 	
    <body>
-      <p>I HELLO OMAR AND AADIL <del>HELLO</del> <ins>BOOO YEAH</ins></p>
+      <p>I HELLO OMAR AND AADIL 
+	      <ins>BOOO YEAH</ins></p>
    </body>
 
 <p> <b>
