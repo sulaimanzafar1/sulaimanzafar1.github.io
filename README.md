@@ -1,12 +1,12 @@
 # sulaimanzafar1.github.io
+
 <html>
 
 
-<p class=MsoNormal><img width=173 height=231 id="Picture 1"
-src="image001.jpg"></p>
+<img src="image001.jpg">
 
 
-<p>
+<p> <b>
 THIS IS SULAIMAN'S PAGE
 
 BOOOOOOH YEAH
@@ -17,7 +17,7 @@ HELLO OMAR AND AADIL
 
 SEE YOU IN ABU DHABI IN APRIL
 
-</p>
+</b> </p>
 
 
 </html>
